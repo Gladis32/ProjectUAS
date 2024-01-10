@@ -87,7 +87,7 @@ while True:
         print("Pilihan tidak ada dalam menu. Silahkan masukkan ulang.")
 
 ## Output
-![ss output beli](https://github.com/Gladis32/ProjectUAS/assets/148181064/2b8b45c2-e18d-4aff-9c2c-fe880d800bd8)
+<img src="">![ss output beli](https://github.com/Gladis32/ProjectUAS/assets/148181064/2b8b45c2-e18d-4aff-9c2c-fe880d800bd8)
 
 
 
