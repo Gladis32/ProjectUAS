@@ -11,7 +11,7 @@
 ## Program Kasir Sebuah Kantin 
 ### Link Youtube
 
-| Link Youtube| Isi |
+| Link Youtube| https://youtu.be/HH1B10TV28Y?si=fbmxgTKZWMMJS3fy |
 | --------    | --- |
 
 ### Input Program
