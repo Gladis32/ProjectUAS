@@ -9,6 +9,14 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 ## Program Kasir Sebuah Kantin 
+
+</br>Buatlah program kasir di sebuah kantin, dengan kondisi berikut:
+1. List opsi pilihan makanan/minuman dan aksi, bisa menggunakan
+format dictionary
+2. Program harus meminta input pilihan makanan dari pengguna.
+3. Program harus menghitung total harga makanan yang dipesan.
+4. Program harus menampilkan struk pembelian.
+
 ### Link Youtube
 
 | Link Youtube| https://youtu.be/HH1B10TV28Y?si=fbmxgTKZWMMJS3fy |
